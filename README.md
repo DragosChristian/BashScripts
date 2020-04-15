@@ -1,1 +1,1 @@
-Repository for Bash scripts.
+Bash scripts exercises. 
