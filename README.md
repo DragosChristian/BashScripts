@@ -1,1 +1,1 @@
-# BashScripts
+Repository for Bash scripts.
